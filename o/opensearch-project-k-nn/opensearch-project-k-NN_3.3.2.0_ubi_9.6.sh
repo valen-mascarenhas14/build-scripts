@@ -2,7 +2,7 @@
 # ----------------------------------------------------------------------------
 #
 # Package        : k-NN
-# Version        : 3.3.0.0
+# Version        : 3.3.2.0
 # Source repo    : https://github.com/opensearch-project/k-NN.git
 # Tested on      : UBI 9.6
 # Language       : Java and C++
@@ -31,7 +31,7 @@ fi
 # Configuration
 # ---------------------------
 PACKAGE_NAME=k-NN
-PACKAGE_VERSION="3.3.0.0"
+PACKAGE_VERSION="3.3.2.0"
 PACKAGE_URL=https://github.com/opensearch-project/${PACKAGE_NAME}.git
 OPENSEARCH_VERSION=${PACKAGE_VERSION::-2}
 OPENSEARCH_PACKAGE=OpenSearch
